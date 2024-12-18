@@ -1,8 +1,4 @@
 # project_capstone
-Here’s an attractive and engaging bio for your Power BI project on GitHub:
-
----
-
 **Power BI Dashboard & Presentation Project**
 
 Welcome to my Power BI project repository! 🎉 This project showcases my skills in transforming raw data into insightful, interactive dashboards using Power BI. The primary goal of this project is to demonstrate the power of data visualization and how actionable insights can be drawn from complex datasets.
@@ -15,8 +11,4 @@ In addition to the Power BI dashboards, I've also included a PowerPoint presenta
 - PowerPoint presentation detailing the project objectives, process, and results.
 
 Feel free to explore the repository, provide feedback, and contribute to the project! 🚀
-
----
-
-This bio highlights the key aspects of your project and engages potential viewers and collaborators.
 
